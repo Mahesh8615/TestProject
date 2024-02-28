@@ -1,3 +1,3 @@
 public class sample {
-    int x;
+    int z;
 }
